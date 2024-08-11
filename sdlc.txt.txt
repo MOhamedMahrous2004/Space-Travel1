@@ -1,0 +1,6 @@
+The Software Development Life-Cycle:
+
+* Planning ( documentation )
+* Analysis ( MoSCoW prioritization method )
+* Desgin ( Prototype -> Mockup -> Wireframe ->Sketch )
+* Implementation ( Html,Css,Js )
